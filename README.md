@@ -1,0 +1,2 @@
+# Algorytmy_Zal
+QuickSort
